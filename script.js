@@ -18,12 +18,12 @@ button.addEventListener('click', () => {
     if (isMusic === true) {
         music.pause();
         isMusic = false;
-        buttonIMG.src = "../resource/image/buttonMusic1.png";
+        buttonIMG.src = "resource/image/buttonMusic1.png";
     } 
     else {
         music.play();
         isMusic = true;
-        buttonIMG.src = "../resource/image/buttonMusic.png";
+        buttonIMG.src = "resource/image/buttonMusic.png";
     }
 })
 
