@@ -1,20 +1,20 @@
 @font-face {
     font-family: title;
-    src: url(../resource/font/title.otf);
+    src: url(resource/font/title.otf);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: subtitle;
-    src: url(../resource/font/subtitle.ttf);
+    src: url(resource/font/subtitle.ttf);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: text1;
-    src: url(../resource/font/card.ttf);
+    src: url(resource/font/card.ttf);
     font-weight: normal;
     font-style: normal;
 }
